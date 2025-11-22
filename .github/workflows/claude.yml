@@ -35,6 +35,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          show_full_output: true  # 启用完整输出查看详细错误
 
           # Optional: Customize the trigger phrase (default: @claude)
           # trigger_phrase: "/claude"
