@@ -37,12 +37,12 @@
   padding: 2em;
 }
 
-.count-button {
+.count-button-add {
   background-color: #1e90ff;
   color: white;
 }
 
-.count-button:hover {
+.count-button-add:hover {
   background-color: #4169e1;
   border-color: #1e90ff;
 }
