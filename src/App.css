@@ -37,6 +37,21 @@
   padding: 2em;
 }
 
+.count-button-add {
+  background-color: #1e90ff;
+  color: white;
+}
+
+.count-button-add:hover {
+  background-color: #4169e1;
+  border-color: #1e90ff;
+}
+
+.count-button-add:active {
+  background-color: #104e8b;
+  border-color: #4169e1;
+}
+
 .read-the-docs {
   color: #888;
 }
