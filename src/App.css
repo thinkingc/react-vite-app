@@ -47,6 +47,11 @@
   border-color: #1e90ff;
 }
 
+.count-button-add:active {
+  background-color: #104e8b;
+  border-color: #4169e1;
+}
+
 .read-the-docs {
   color: #888;
 }
